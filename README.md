@@ -9,7 +9,7 @@ I'm passionate about cloud-native technologies, Linux, Kubernetes, and enterpris
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 ![Red Hat OpenShift](https://img.shields.io/badge/Red%20Hat%20OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -24,7 +24,7 @@ I'm passionate about cloud-native technologies, Linux, Kubernetes, and enterpris
 
 ---
 
-### 🚀 Areas of Interest
+### Areas of Interest
 
 - **OpenShift & Kubernetes:** Cluster administration, RBAC, networking, scheduling, and troubleshooting.
 - **OpenShift Virtualization:** Managing virtual machines and containers on a unified Kubernetes platform.
@@ -73,4 +73,4 @@ Currently pursuing advanced Red Hat certifications, with the goal of achieving *
 
 ---
 
-You should play Metal Gear
+You should play Metal Gear🤓​

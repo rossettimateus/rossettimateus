@@ -73,4 +73,4 @@ Currently pursuing advanced Red Hat certifications, with the goal of achieving *
 
 ---
 
-*"Build. Break. Troubleshoot. Understand. Repeat."*
+You should play Metal Gear

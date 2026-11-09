@@ -43,6 +43,8 @@ I'm passionate about cloud-native technologies, Linux, Kubernetes, and enterpris
 - **EX180** — Red Hat OpenShift Containers
 - **EX280** — Red Hat OpenShift Administration
 - **EX316** — Red Hat Certified Specialist in OpenShift Virtualization
+- **RHCE** — Red Hat Certified Engineer
+- **EX380** — Red Hat Certified Advanced System Administrator in OpenShift exam
 
 Currently pursuing advanced Red Hat certifications, with the goal of achieving **Red Hat Certified Architect (RHCA)**.
 

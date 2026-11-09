@@ -58,14 +58,6 @@ Currently pursuing advanced Red Hat certifications, with the goal of achieving *
 - OpenShift Logging & Monitoring
 - Backup, Disaster Recovery & High Availability
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rossettimateus&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-r-abb132265)
